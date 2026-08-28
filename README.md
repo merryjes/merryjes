@@ -39,21 +39,28 @@
 </p>
 <br>
 
-#  Tech Stack
+# Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" /></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" /></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" /></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" /></td>
+    <td align="center" width="33%"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" /></td>
+  </tr>
+</table>
 
-<br><br>
+
+<br><br> <!-- adds vertical spacing -->
 
 ## 🌐
 

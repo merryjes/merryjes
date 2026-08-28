@@ -1,35 +1,65 @@
 <h1 align="center">
   𝓗𝓲, 𝓘'𝓶 𝓜𝓮𝓻𝓻𝔂 𝓙𝓮𝓼 👋🏻
+  <br>
 </h1>
 
 <img height="auto" alt="github-banner-1000" width="100%" style="margin-bottom: 20px" src="https://github.com/user-attachments/assets/f335354e-3d8b-4083-8faa-853b9f0921c6" />
 <p align="center">
+<br><br>
   
+
+#  About Me
+
+
+
 <p align="center">
-𝑨 2𝒏𝒅-𝒚𝒆𝒂𝒓 𝑰𝑻 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒊𝒏 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒐𝒇 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒐𝒇 𝑺𝒐𝒖𝒕𝒉𝒆𝒓𝒏 𝑷𝒉𝒊𝒍𝒊𝒑𝒑𝒊𝒏𝒆𝒔 <br>
-   
+  <sub>
+    I’m an IT student who can wrestle with code (C, Python, Java, HTML, CSS, JavaScript)  
+    and still have energy left to play games and binge doom scrolling.
+  </sub>
 </p>
 
+---
 
-##  Stack
-<!-- Typing animation -->
+### ⚪ What I can do inside programming:
+<sub>
+- Build projects that actually *work* and then abandoned (most of the time..)<br><br>
+- Always chasing beautiful designs<br><br>
+- Debug errors until they cry for mercy<br><br>
+</sub>
+
+### ⚪ Outside programming:
+<sub>
+-  Gamer? lol (ML, Roblox, Minecraft)<br><br>
+-  Anime fan (isekai & fantasy worlds are my jam)<br><br>
+- Editing and designing stuff just for fun<br><br>
+</sub>
+
+
+---
+
+<p align="center"><sub>Basically: I code, I game, I watch anime… and honestly, I sleep A LOT. </sub></p>
+</p>
+<br><br><br>
+
+
+
+
+#  Tech Stack
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=C;Python;Java;HTML;CSS;JavaScript" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
 </p>
 
-<!-- Skill icons (black & white) -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript&theme=light" />
-</p>
-
-
-
-
-
-
-
-
-
+<br><br>
 
 ## 🌐
 

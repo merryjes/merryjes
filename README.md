@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝓗𝓲, 𝓘'𝓶 𝓜𝓮𝓻𝓻𝔂 𝓙𝓮𝓼 👋🏻
+ 𝗛𝗶, 𝗜'𝗺 𝗠𝗲𝗿𝗿𝘆 𝗝𝗲𝘀👋🏻
   <br>
 </h1>
 
@@ -9,9 +9,6 @@
   
 
 #  About Me
-
-
-
 <p align="center">
   <sub>
     I’m an IT student who can wrestle with code (C, Python, Java, HTML, CSS, JavaScript)  
@@ -40,10 +37,7 @@
 
 <p align="center"><sub>Basically: I code, I game, I watch anime… and honestly, I sleep A LOT. </sub></p>
 </p>
-<br><br><br>
-
-
-
+<br>
 
 #  Tech Stack
 

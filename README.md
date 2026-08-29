@@ -11,8 +11,8 @@
 #  About Me
 <p align="center">
   <sub>
-    I’m an IT student who can wrestle with code (C, Python, Java, HTML, CSS, JavaScript)  
-    and still have energy left to play games and binge doom scrolling.
+    I’m a 2nd year IT student who can wrestle with code (C, Python, Java, HTML, CSS, JavaScript)  
+    and still have energy left to play games and doom scroll.
   </sub>
 </p>
 

@@ -18,14 +18,14 @@
 
 ---
 
-### ⚪ What I can do inside programming:
+### What I can do inside programming:
 <sub>
 - Build projects that actually *work* and then abandoned (most of the time..)<br><br>
 - Always chasing beautiful designs<br><br>
 - Debug errors until they cry for mercy<br><br>
 </sub>
 
-### ⚪ Outside programming:
+### Outside programming:
 <sub>
 -  Gamer? lol (ML, Roblox, Minecraft)<br><br>
 -  Anime fan (isekai & fantasy worlds are my jam)<br><br>
@@ -38,6 +38,7 @@
 <p align="center"><sub>Basically: I code, I game, I watch anime… and honestly, I sleep A LOT. </sub></p>
 </p>
 <br>
+
 
 # Tech Stack
 
@@ -61,6 +62,19 @@
 
 
 <br><br> <!-- adds vertical spacing -->
+
+# Status
+
+<p align="center">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.shion.dev/api?username=merryjes&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="150"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=merryjes&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="150"/>
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=merryjes&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&layout=compact" height="150"/>
+</p>
 
 ## 🌐
 

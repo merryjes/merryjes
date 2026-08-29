@@ -39,26 +39,38 @@
 </p>
 <br>
 
-
 # Tech Stack
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" /></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" /></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" /></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" /></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" /></td>
-    <td align="center" width="33%"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" /></td>
+    <!-- Tech Stack -->
+    <td align="center" width="50%">
+      <h3></h3>
+      <p>
+        <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" /> &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" /> &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" /> &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" /> &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
+      </p>
+    </td>
+<!-- Most Used Languages -->
+    <td align="center" width="50%">
+      <h3></h3>
+      <p>
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=merryjes&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&layout=compact" height="200"/>
+      </p>
+    </td>
   </tr>
 </table>
+
+
 
 
 <br><br> <!-- adds vertical spacing -->
@@ -71,12 +83,9 @@
   
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=merryjes&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="150"/>
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=merryjes&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&layout=compact" height="150"/>
-</p>
+ <br>  <br>
 
-## 🌐
+## 🌐Connect with me
 
 <p align="center">
   <a href="https://facebook.com/Merry Jes Saldua">

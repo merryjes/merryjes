@@ -18,22 +18,6 @@
 
 ---
 
-### What I can do inside programming:
-<sub>
-- Build projects that actually *work* and then abandoned (most of the time..)<br><br>
-- Always chasing beautiful designs<br><br>
-- Debug errors until they cry for mercy<br><br>
-</sub>
-
-### Outside programming:
-<sub>
--  Gamer? lol (ML, Roblox, Minecraft)<br><br>
--  Anime fan (isekai & fantasy worlds are my jam)<br><br>
-- Editing and designing stuff just for fun<br><br>
-</sub>
-
-
----
 
 
 # Tech Stack

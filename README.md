@@ -35,9 +35,6 @@
 
 ---
 
-<p align="center"><sub>Basically: I code, I game, I watch anime… and honestly, I sleep A LOT. </sub></p>
-</p>
-<br>
 
 # Tech Stack
 

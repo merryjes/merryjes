@@ -5,12 +5,13 @@
 
 <img height="auto" alt="github-banner-1000" width="100%" style="margin-bottom: 20px" src="https://github.com/user-attachments/assets/f335354e-3d8b-4083-8faa-853b9f0921c6" />
 <p align="center">
-<br><br>
+c
   
 
 
 #  About Me
 <p align="center">
+<br><br>
 
   <sub>
     I’m a 2nd year IT student who can wrestle with code (C, Python, Java, HTML, CSS, JavaScript)  

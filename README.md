@@ -8,18 +8,37 @@
 <br><br>
   
 
+
 #  About Me
 <p align="center">
- <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueXF1Z3R4cnFpZndyY2RtZzExOGRwMXpua3F6Nmd4Z3R5ZWR3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lq0h93752f6J9tijrh/giphy.gif" width="100px" alt="Kawaii Cat" />
-</p>
+
   <sub>
     I’m a 2nd year IT student who can wrestle with code (C, Python, Java, HTML, CSS, JavaScript)  
     and still have energy left to play games and doom scroll.
   </sub>
 </p>
 
+<br> <br> <br>
+### What I can do inside programming:
+<sub>
+- Build projects that actually *work* and then abandoned (most of the time..)<br><br>
+- Always chasing beautiful designs<br><br>
+- Debug errors until they cry for mercy(eme lng<br><br>
+</sub>
+
+### Outside programming:
+<sub>
+-  Gamer? lol (ML, Roblox, Minecraft)<br><br>
+-  Anime fan (isekai & fantasy worlds are my jam)<br><br>
+- Editing and designing stuff just for fun<br><br>
+</sub>
+
+
 ---
+
+<p align="center"><sub>Basically: I code, I game, I watch anime… and honestly, I sleep A LOT. </sub></p>
+</p>
+<br><br><br>
 
 
 
@@ -53,7 +72,6 @@
     </td>
   </tr>
 </table>
-
 
 
 

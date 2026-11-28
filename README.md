@@ -73,6 +73,143 @@
     </td>
   </tr>
 </table>
+<br><br>
+
+## Work Station
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GARUDA%20LINUX-1E1E2E?style=flat-square&logo=linux&logoColor=CBA6F7" />
+  <img src="https://img.shields.io/badge/THINKPAD%20E595-1E1E2E?style=flat-square&logo=lenovo&logoColor=B4BEFE" />
+  <img src="https://img.shields.io/badge/CATPPUCCIN%20MOCHA-1E1E2E?style=flat-square&logo=kde&logoColor=F5C2E7" />
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<p align="center"><b>GARUDA LINUX / FASTFETCH</b></p>
+
+<pre>
+              .:--=========--:..
+          .:-=+++++###-----=======-:.
+        :=++++-:..           ..:-###-:.
+      .+++=:.                      .-=---.
+    .:-:                              :---:
+   :=            .                      :---:
+  ::=-:         :-.                      .---:
+  :-###--::.  .:::::.                      ---:
+ .::-=###-+=------=-:                      ---:
+ ::  :-++++====--=-:=====--=--:            .---
++++=:+++####++++++==-  -=====  -=-.         ---:
+*****+==++==--:::::::=======  . ###-.      :---
+****===++-::.:::::-.::--=======-.-###        .---
+**+++=+-::::--:.    -==:-==--=======-::.  .  :---
+===++-:::::###        -+###-==:  :::.:-=-###---  :--:
+.+++-:::-+=          ...::====  .::  +=-:--.      ..
+ -*++ :::=+-:               .:=-   --  .:   .  ...
+  =*++:.++-+:   .:.         =-.: :-:     ::    :.
+   -*++-=+=-+=-=++###-.      .====:  .::::.
+    :+++++++-:::--.-:###         --.
+     *=++++++-  *=  +.=:=               .::
+       :=+++++:. .: : .              :----
+         .-++++=-:..            .:--###-.
+            .-=++++++###-----=======-:.
+</pre>
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><b>GARUDA SYSTEM INFORMATION</b></p>
+
+<pre>
+jessy@Mocha
+-------------------------
+▲ OS       Garuda Linux
+▭ LAPTOP   ThinkPad E595
+▤ KERNEL   7.3.1-1-garuda
+◔ UPTIME   1 hour, 33 mins
+⬡ PACKAGES 1225 pacman
+▷ SHELL    fish 4.9.3
+▣ DESKTOP  KDE Plasma 6.8.2
+⚙ CPU      Ryzen 5 3500U
+▪ GPU      Radeon Vega 8
+▫ MEMORY   4.62 / 5.69 GiB
+-------------------------
+● ● ● ● ● ● ● ●
+</pre>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br><br><br>
+
+<p align="center"><b>CATPPUCCIN / KONSOLE ARTWORK</b></p>
+
+<pre>
+                    -------
+              :::---------=======
+          :::::---------=========++++
+        :::::##-------=========+##+++++
+      :::::######---=========+######++***
+    :::::-###########################******
+   ::::--#############################******
+  :::----#############################****...
+ ::-------##  .-'-.#########  .-'-.##***......
+ ---------## ( ^ ) ######### ( ^ ) ##*........
+--------==##       ## \v/ ##       ##........:
+------====###########'-w-'###########......:::
+----=======##########     ##########.....:::::
+--=========+++###################......:::::::
+ ========+++++++###############......:::::::::
+ ======+++++++###             ###..:::::::::--
+  ===++++++++####  <%@@@%>  ####::::::::---
+   +++++++++#####             #####:::::----
+    ++++++*#########################::-----
+      ++***#########################-----
+        ***#########################---
+          **#######################--
+              ###################
+                    #######
+</pre>
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><b>CATPPUCCIN SYSTEM INFORMATION</b></p>
+
+<pre>
+jessy@Mocha
+-------------------------
+▦ PACKAGES 1225 pacman
+▷ SHELL    fish 4.9.3
+└ AGE      3 days
+
+▣ DESKTOP  KDE Plasma 6.8.2
+├ WINDOW   KWin (Wayland)
+├ LOGIN    Plasma Login
+├ THEME    CatppuccinMocha
+├ COLORS   Mokka
+├ ICONS    Tela Dracula
+├ FONT     Inter Bold
+└ TERMINAL Konsole 26.8.2
+
+▣ PC       Notebook
+├ CPU      Ryzen 5 3500U
+├ GPU      Radeon Vega 8
+├ OPENGL   Mesa 26.2.6
+├ VULKAN   1.4.354
+└ DISPLAY  1920x1080 / 60 Hz
+-------------------------
+</pre>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>Powered by Garuda Linux, KDE Plasma and a little Catppuccin magic.</i>
+</p>
 
 
 

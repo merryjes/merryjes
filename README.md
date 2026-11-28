@@ -135,6 +135,7 @@ jessy@Mocha
 ▪ GPU      Radeon Vega 8
 ▫ MEMORY   4.62 / 5.69 GiB
 -------------------------
+
 ● ● ● ● ● ● ● ●
 </pre>
 
@@ -142,7 +143,6 @@ jessy@Mocha
 </tr>
 <tr>
 <td width="50%" valign="top">
-<br><br><br>
 
 <p align="center"><b>CATPPUCCIN / KONSOLE ARTWORK</b></p>
 

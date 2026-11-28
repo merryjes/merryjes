@@ -5,7 +5,7 @@
 
 <img height="auto" alt="github-banner-1000" width="100%" style="margin-bottom: 20px" src="https://github.com/user-attachments/assets/f335354e-3d8b-4083-8faa-853b9f0921c6" />
 <p align="center">
-c
+
   
 
 
@@ -113,8 +113,3 @@ c
     <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
-
-
-
-
